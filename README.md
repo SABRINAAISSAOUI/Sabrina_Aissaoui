@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  hey there I'm Sabrina
+  Hey there I'm Sabrina
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
