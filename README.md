@@ -69,7 +69,7 @@ and are pushing the boundaries of web3.
 
 ## 🟢 REACH ME HERE:
 [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' width='60' />&nbsp;](https://www.linkedin.com/in/sabrina-aissaoui/)
-[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />&nbsp;](http://twitter.com/bellal_khaled5) 
+[<img src='https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-512.png' width='60' />&nbsp;]() 
 [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png' width='60' />&nbsp;](https://www.instagram.com/aissaouisabrina6/)
 ---
 
