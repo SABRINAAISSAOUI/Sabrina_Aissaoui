@@ -33,11 +33,6 @@ and are pushing the boundaries of web3.
 
 ---
 
-### 👽 My philosophy
-• 🧠 Scaling the scope of consciousness… my eternal goal.<br>
-• 💭 I spent years seeking the meaning of life, Eventually came to this phrase: "The universe itself is the answer, We have to work on scaling the scope of consciousness so we can ask the right questions".
-
-• 🍀 Contributing to making society better requires that everyone focuses on one thing, and does it perfectly, in my case, that was the web, I've been here since web1, then web2, with +9 years in computer science, and with all the energy and passion, I've served many useful projects, and worked with significant companies throughout the way, after this long time, decided to launch Web3 Pros to push the boundaries of Web3
 
 ---
 
